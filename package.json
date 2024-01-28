@@ -1,0 +1,14 @@
+{
+  "name": "opengitflow",
+  "version": "1.0.0",
+  "description": "Une interface de ligne de commande pour simplifier les opérations Git et intégrer OpenCommit.",
+  "main": "bin/opengitflow.js",
+  "bin": {
+    "opengitflow": "./bin/opengitflow.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
